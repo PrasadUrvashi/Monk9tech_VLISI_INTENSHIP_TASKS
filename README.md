@@ -173,7 +173,7 @@ Final verification before manufacturing:
 
 # 🟢 Day 2 – GitHub & Linux Overview
 
-## 🔹 Why GitHub & Linux?
+## 🔹 Why Linux?
 - Most **VLSI tools run on Linux**
 - GitHub is used for:
   - Version control
@@ -191,6 +191,57 @@ Final verification before manufacturing:
   - VLSI tools
   - Servers
   - Embedded systems
+
+---
+# 📘 GitHub Overview  
+
+
+## 🔹 What is GitHub?
+GitHub is a **cloud-based platform** used to store, manage, and share code.  
+It works with **Git**, a version control system that tracks changes in files over time.
+
+GitHub allows engineers to:
+- Save their projects online
+- Work on code safely without losing previous versions
+- Collaborate with teams efficiently
+
+---
+
+## 🔹 Why GitHub is Used?
+GitHub is used to:
+- Maintain **project versions**
+- Collaborate with multiple developers
+- Track progress and changes in code
+- Store project documentation and notes
+- Share work with mentors, teams, and companies
+
+---
+
+## 🔹 Importance of GitHub in Engineering
+
+### 👩‍💻 For Engineering Students
+- Showcases projects in one place
+- Builds a strong technical profile
+- Helps in internships and placements
+- Encourages clean and organized coding habits
+
+---
+
+### 🏭 For Industry & Companies
+- Enables team collaboration
+- Maintains code history and backups
+- Reduces errors and code conflicts
+- Improves development workflow
+
+---
+
+
+
+## ⭐ Key Takeaways
+- GitHub is an essential tool for modern engineers
+- It promotes collaboration and version control
+- Strong GitHub usage improves career opportunities
+- Learning GitHub is a long-term professional skill
 
 ---
 
