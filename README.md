@@ -248,6 +248,7 @@ GitHub is used to:
 # Day 3  Basics of Floor planning + GIthub and Linux & Labs
 
 
+
 ## Task 1 create github profile and readme flies
 
 ## Task 2 GIthub  & Readme Labs
