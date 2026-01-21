@@ -247,6 +247,7 @@ GitHub is used to:
 
 # Day 3  Basics of Floor planning + GIthub and Linux & Labs
 
+<img width="1309" height="927" alt="Screenshot from 2026-01-21 17-39-11" src="https://github.com/user-attachments/assets/7ddb7ec2-633b-4b72-9563-b368639d4011" />
 
 
 ## Task 1 create github profile and readme flies
