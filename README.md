@@ -249,7 +249,11 @@ GitHub is used to:
 ## 🟢 Part 1: Basics of Floor Planning (VLSI)
 
 ### 🔹 What is Floor Planning?
+Floor planning is the **first physical design step** in the RTL to GDSII flow.  
+It defines **how different blocks are arranged inside the chip**.
 
+📌 It is similar to **city zoning before construction**.
+---
 ### 🔹 Why Floor Planning is Important?
 - Controls chip **area and shape**
 - Reduces **routing congestion**
